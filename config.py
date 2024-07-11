@@ -27,14 +27,14 @@ presence_penalty = 0.5
 
 # Below is the name for your default csv terms file. You can change this to any csv file you want to use as your default terms file. It must be in the same folder as the main app.py file.
 
-default_terms_csv = "terms_template.csv"
+default_terms_csv = "ANATOMYterms_template - terms_template.csv"
 
 ############################################################################################################
 
 # Below is all the text you can customize for the app. Don't remove the quotations around the text. Don't change the variable names.
 
 # The title of the app
-app_title = "DIY AI-enhanced study app for biologists"
+app_title = "AY"
 
 # The subtitle of the app
 app_author = "courtesy of UCSD School of Biological Sciences"
